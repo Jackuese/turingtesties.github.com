@@ -1,0 +1,15 @@
+---
+layout: post
+category : lessons
+tagline: "This is a placeholder"
+tags : [placeholder]
+---
+{% include JB/setup %}
+
+### What's going here?
+
+This page is a placeholder for upcoming posts on:  
+-Javascript's 'with' keyword
+-python's specialized Counter object (and NLTK)
+-and some other stuff...
+
